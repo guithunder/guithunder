@@ -57,7 +57,7 @@ learning:
 
 <p align="center">
 
-<img src="https://i.pinimg.com/originals/15/0b/ac/150bacde5a2649ba08ffa315ab206877.jpg"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ffff"/>
 
 <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff99"/>
 
