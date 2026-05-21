@@ -14,21 +14,6 @@
 
 ---
 
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ffff"/>
-
-<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff99"/>
-
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=0099ff"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=8a2be2"/>
-
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=ffffff"/>
-
-</p>
 
 ---
 
@@ -61,7 +46,7 @@ learning:
 
 <div align="center">
 
-<img  width="50%" src="https://streak-stats.demolab.com?user=guithunder&theme=synthwave"/>
+<img  width="98%" src="https://streak-stats.demolab.com?user=guithunder&theme=synthwave"/>
 
 </div>
 
