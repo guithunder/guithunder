@@ -61,15 +61,12 @@ learning:
 
 <div align="center">
 
-<img  width="98%" src="https://streak-stats.demolab.com?user=guithunder&theme=synthwave"/>
+<img  width="50%" src="https://streak-stats.demolab.com?user=guithunder&theme=synthwave"/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=guithunder&theme=tokyo-night"/>
 
 # 🚀 Featured Projects
 
