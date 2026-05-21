@@ -46,17 +46,15 @@ learning:
 ```
 
 ---
-
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guithunder&show_icons=true&theme=synthwave"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guithunder&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guithunder&layout=compact&theme=synthwave"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guithunder&layout=compact&theme=tokyonight"/>
 
 </div>
-
 ---
 
 # 🔥 Contribution Streak
